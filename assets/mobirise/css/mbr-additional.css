@@ -1355,12 +1355,13 @@ body {
   color: #232323;
 }
 .cid-qAc7DSnkc6 {
+  padding-top: 30px;
+  padding-bottom: 120px;
   background: #ffffff;
   background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-qAc7DSnkc6 .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-qAc7DSnkc6 .video-block {
