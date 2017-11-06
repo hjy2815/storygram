@@ -1851,6 +1851,20 @@ body {
 .cid-qzvlFERrmv H1 {
   color: #af37b1;
 }
+.cid-qAcgzY5s0c {
+  padding-top: 30px;
+  padding-bottom: 120px;
+  background: #ffffff;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-qAcgzY5s0c .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qAcgzY5s0c .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qz3Qr0E1Kh {
   padding-top: 90px;
   padding-bottom: 30px;
