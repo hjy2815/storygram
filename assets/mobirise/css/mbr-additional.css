@@ -1354,6 +1354,20 @@ body {
 .cid-qz3d5zEeVF .mbr-text {
   color: #232323;
 }
+.cid-qAc7DSnkc6 {
+  padding-top: 60px;
+  padding-bottom: 105px;
+  background: #ffffff;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-qAc7DSnkc6 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qAc7DSnkc6 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qz37BcjpRe {
   padding-top: 90px;
   padding-bottom: 90px;
