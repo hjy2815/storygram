@@ -36,7 +36,7 @@
         "#f0f0f0"
       ]
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/snsfactory-favicon1-16x16.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
