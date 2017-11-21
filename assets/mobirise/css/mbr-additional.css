@@ -2005,7 +2005,7 @@ body {
 .cid-qz3WsBEffT {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-qz3WsBEffT .mbr-text {
   color: #767676;
@@ -2019,6 +2019,20 @@ body {
 .cid-qz3WsBEffT .card-img span {
   font-size: 96px;
   color: #149dcc;
+}
+.cid-qBA1nyQoxA {
+  padding-top: 30px;
+  padding-bottom: 120px;
+  background: #ffffff;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-qBA1nyQoxA .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qBA1nyQoxA .video-block {
+    width: 100% !important;
+  }
 }
 .cid-qzk0ejJur6 {
   padding-top: 30px;
