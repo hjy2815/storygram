@@ -48,9 +48,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Storygram",
         "meta_descr": "",
-        "header_custom": "<haed>\n<meta property=\"og:url\" content=\"http://storygram.co.kr/\">\n<meta property=\"og:title\" content=\"스토리그램\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:image\" content=\"https://i.imgur.com/YokBs9B.png\">\n<meta property=\"og:description\" content=\"인스타그램 자동관리,인스타그램 마케팅,팔로워늘리기\">\n</head>",
+        "header_custom": "<haed>\n<meta property=\"og:url\" content=\"http://storygram.co.kr/\">\n<meta property=\"og:title\" content=\"스토리그램\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:image\" content=\"https://i.imgur.com/YokBs9B.png\">\n<meta property=\"og:description\" content=\"인스타그램마케팅을 위한 자동화 솔루션\">\n</head>",
         "footer_custom": "",
         "html_before": ""
       },
