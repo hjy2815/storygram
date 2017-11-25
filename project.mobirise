@@ -3,7 +3,7 @@
     "name": "Storygram",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 128,
+    "uniqCompNum": 129,
     "versionPublish": "4.4.1",
     "theme": {
       "name": "mobirise4",
@@ -50,7 +50,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<haed>\n<meta property=\"og:url\" content=\"http://storygram.co.kr/\">\n<meta property=\"og:title\" content=\"스토리그램\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:image\" content=\"https://imgur.com/YokBs9B\">\n<meta property=\"og:description\" content=\"인스타그램 자동관리,인스타그램 마케팅,팔로워늘리기\">\n</head>",
         "footer_custom": "",
         "html_before": ""
       },
