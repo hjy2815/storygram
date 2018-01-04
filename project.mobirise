@@ -44,10 +44,12 @@
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "siteUrl": "",
+    "siteUrl": "http://storygram.co.kr/",
     "sitemapSwitcherAuto": "on",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": ""
+    "robotsText": "User-agent: Yeti\nAllow:/",
+    "robotsSwitcher": "on",
+    "google-analytics": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
