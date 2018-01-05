@@ -1645,17 +1645,17 @@ body {
 .cid-qz3d5zEeVF .mbr-text {
   color: #232323;
 }
-.cid-qAc7DSnkc6 {
+.cid-qFRiYshqbD {
   padding-top: 30px;
   padding-bottom: 120px;
   background: #ffffff;
   background: linear-gradient(0deg, #ffffff, #ffffff);
 }
-.cid-qAc7DSnkc6 .video-block {
+.cid-qFRiYshqbD .video-block {
   margin: auto;
 }
 @media (max-width: 768px) {
-  .cid-qAc7DSnkc6 .video-block {
+  .cid-qFRiYshqbD .video-block {
     width: 100% !important;
   }
 }
@@ -2102,6 +2102,20 @@ body {
   padding-top: 0px;
   padding-bottom: 60px;
   background-color: #f9f9f9;
+}
+.cid-qAc7DSnkc6 {
+  padding-top: 30px;
+  padding-bottom: 120px;
+  background: #ffffff;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-qAc7DSnkc6 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qAc7DSnkc6 .video-block {
+    width: 100% !important;
+  }
 }
 .cid-qFR6xSEOaZ {
   display: flex;
